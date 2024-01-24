@@ -7,14 +7,14 @@ Visual Studio Code – Plataforma Central
 Linguagem Python - Ambiente
 Jupyter - Narrativa Iterativa
 
-✒️ Autores
+✒️ Autores:
 Matheus Setubal Milverstet
 Naiara Morais Pinheiro
 
-🚀 Começando
+🚀 Começando:
 Estas instruções permitirão que você obtenha uma cópia do projeto em operação em sua máquina local para fins de desenvolvimento e teste.
 
-🔧 Instalação
+🔧 Instalação:
 Para configurar o ambiente de desenvolvimento e garantir a execução adequada do projeto, siga os passos abaixo:
 
 # Instalação do Python e Jupyter Notebook:
