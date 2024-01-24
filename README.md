@@ -36,9 +36,13 @@ Este projeto Python realiza as seguintes tarefas:
 
 Importa as bibliotecas necessárias;
 Conecta-se a uma API que fornece informações sobre todos os países;
+
 Define uma função de alerta para notificar o usuário sobre o status da conexão com a API baseada no código de resposta fornecido pela API;
+
 Se a conexão com a API for bem-sucedida, ele cria um DataFrame com os dados recebidos;
+
 Formata o DataFrame, selecionando e renomeando as colunas necessárias;
+
 Salva o DataFrame formatado em um arquivo CSV.
 
 ⚙️ Executando os testes
