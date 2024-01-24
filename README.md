@@ -35,6 +35,7 @@ Agora, seu ambiente estará devidamente configurado, e você estará pronto para
 Este projeto Python realiza as seguintes tarefas:
 
 Importa as bibliotecas necessárias;
+
 Conecta-se a uma API que fornece informações sobre todos os países;
 
 Define uma função de alerta para notificar o usuário sobre o status da conexão com a API baseada no código de resposta fornecido pela API;
